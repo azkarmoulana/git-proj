@@ -4,3 +4,5 @@ up
 down
 near
 far
+come 
+go
